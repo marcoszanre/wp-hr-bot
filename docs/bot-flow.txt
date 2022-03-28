@@ -1,0 +1,8 @@
+HR-Bot flow:
+1. Any action will trigger a carousel of actions, including Payroll
+2. When user clicks on Payroll, a Gif is sent with a “On it” along with a document.
+3. Bot asks if there’s anything else the user needs help with.
+4. The user selects that’t all.
+5. The bot will reply with a sentiment rating question
+6. User will select an option
+7. The bot will say thank you.
